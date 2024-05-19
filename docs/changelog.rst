@@ -90,6 +90,8 @@ Detailed list of changes
 
 - Remote control: @ action: Fix some actions being performed on the active window instead of the matched window (:iss:`7438`)
 
+- macOS: Fix --start-as=fullscreen not working when another window is already fullscreen (:iss:`7448`)
+
 0.34.1 [2024-04-19]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
